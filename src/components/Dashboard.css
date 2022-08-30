@@ -1,0 +1,13 @@
+.dashboard {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url("../Images/clickwallpapers-React\ Native-img7.jpg");
+  }
+  .dashboard div {
+    margin-top: 7px;
+  }
+  
